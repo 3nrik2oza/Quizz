@@ -49,8 +49,6 @@ public class QuizzGame {
         }
     }
 
-
-
     private void showWinner() {
         if (players[0].correctAnswersCount > players[1].correctAnswersCount) {
             System.out.println("1. " + players[0].name);
