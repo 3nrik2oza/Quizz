@@ -1,30 +1,30 @@
 Tko je bio prvi predsjednik Sjedinjenih Američkih Država?
-Thomas Jefferson
-George Washington
-Abraham Lincoln
-John Adams
+1.Thomas Jefferson
+2.George Washington
+3.Abraham Lincoln
+4.John Adams
 2
 Koja je bila glavna tema Povelje slobode (Magna Carta)?
-Vjerske slobode
-Građanske slobode
-Prava plemića
-Ljudska prava
+1.Vjerske slobode
+2.Građanske slobode
+3.Prava plemića
+4.Ljudska prava
 3
 Koja je značajna bitka vođena tijekom Drugog svjetskog rata na Tihom oceanu?
-Bitka kod Staljingrada
-Bitka kod Midwaya
-Bitka kod El Alameina
-Bitka kod Normandije
+1.Bitka kod Staljingrada
+2.Bitka kod Midwaya
+3.Bitka kod El Alameina
+4.Bitka kod Normandije
 2
 Tko je napisao "Rat i mir"?
-Leo Tolstoj
-Fjodor Dostojevski
-Charles Dickens
-Jane Austen
+1.Leo Tolstoj
+2.Fjodor Dostojevski
+3.Charles Dickens
+4.Jane Austen
 1
 Koje godine je završio Hrvatski Domovinski rat?
-1991
-1995
-2000
-1989
+1.1991
+2.1995
+3.2000
+4.1989
 2
