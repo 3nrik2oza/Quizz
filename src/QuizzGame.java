@@ -53,9 +53,14 @@ public class QuizzGame {
         if (players[0].correctAnswersCount > players[1].correctAnswersCount) {
             System.out.println("1. " + players[0].name);
             System.out.println("Postotak točnih odgovora: " + players[0].percentage());
+            System.out.println("2. " + players[1].name);
+            System.out.println("Postotak točnih odgovora: " + players[1].percentage());
         } else {
             System.out.println("1. " + players[1].name);
             System.out.println("Postotak točnih odgovora: " + players[1].percentage());
+
+            System.out.println("2. " + players[0].name);
+            System.out.println("Postotak točnih odgovora: " + players[0].percentage());
         }
     }
 
